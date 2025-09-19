@@ -1,0 +1,14 @@
+.a1{
+    background-color: #eee;
+    height: 200px;
+    display: grid;
+    grid-template-columns: repeat(4, 100px);
+    gap: 10px;
+    padding-top: 20px;
+}
+.a1 div{
+    background-color: darkblue;
+    width: 100px;
+    height: 100px;
+    box-sizing: border-box
+}
